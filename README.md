@@ -1,5 +1,5 @@
 # juliagenai.com 
-![JuliaGenAI Logo](assets/logo-1024.png)
+![JuliaGenAI Logo](assets/logos/logo-1024.png)
 
 The website for the JuliaGenerativeAI organization.
 
