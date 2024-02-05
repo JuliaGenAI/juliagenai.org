@@ -1,7 +1,7 @@
-# juliagenai.com 
+# JuliaGenAI.org
 ![JuliaGenAI Logo](assets/logos/logo-1024.png)
 
-The website for the JuliaGenerativeAI organization.
+The website for the JuliaGenAI organization.
 
 **Google Summer of Code 2024 with JuliaGenAI**
 
