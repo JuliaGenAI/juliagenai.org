@@ -3,7 +3,7 @@
 
 # JuliaGenAI
 
-JuliaGenAI is an organization created to promote [Julia](https://julialang.org/) as a tool for generative artifical intelligence applications, development, and research. The organization is not intended to usurp robust tools like [llama.cpp](https://github.com/ggerganov/llama.cpp), [ggml](https://github.com/ggerganov/ggml), [ollama](https://github.com/ollama/ollama), etc.
+JuliaGenAI is a [GitHub organization](https://github.com/JuliaGenAI/juliagenai.org) created to promote [Julia](https://julialang.org/) as a tool for generative artifical intelligence applications, development, and research. The organization is not intended to usurp robust tools like [llama.cpp](https://github.com/ggerganov/llama.cpp), [ggml](https://github.com/ggerganov/ggml), [ollama](https://github.com/ollama/ollama), etc.
 
 Rather, JuliaGenAI is intended to provide a platform for furthing access to these tools in Julia, as well as to motivate the development of new tools and libraries for generative AI.
 
