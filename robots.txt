@@ -1,0 +1,4 @@
+Sitemap: https://juliagenai.org/sitemap.xml
+
+User-agent: *
+Disallow:
