@@ -10,7 +10,7 @@ mintoclevel = 2
 
 # please do read the docs on deployment to avoid common issues: https://franklinjl.org/workflow/deploy/#deploying_your_website
 
-prepath = "juliagenai.org"
+# prepath = "juliagenai.org"
 
 # Add here files or directories that should be ignored by Franklin, otherwise
 
