@@ -34,7 +34,6 @@ JuliaGenAI is a new organization, and as such, it is still in the process of dev
 - [Flux.jl](https://github.com/FluxML/Flux.jl). Flux is a machine-learning library for Julia that is flexible and allows the building of complex models. However, at the time of writing, We're not aware of any Large Language Models (LLMs) that have been trained in Flux.
 - [Llama2.jl](https://github.com/cafaxo/Llama2.jl). Llama2.jl provides simple code for inference and training of llama2-based language models based on [llama2.c](https://github.com/karpathy/llama2.c). It supports loading quantized weights in GGUF format (`q4_K_S` variant). Training is only experimental at this stage.
 - [Transformers.jl](https://github.com/chengchingwen/Transformers.jl). Transformers.jl is a Julia package that provides a high-level API for using pre-trained transformer models. It also allows to download any model from the Hugging Face hub with `@hgf_str` macro string.
-- [GraphNeuralNetworks.jl](https://github.com/CarloLucibello/GraphNeuralNetworks.jl). GraphNeuralNetworks.jl is a Julia package for graph neural networks. It is a high-level API for using pre-trained graph neural network models.
 
 ## Why Julia?
 
