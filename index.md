@@ -55,5 +55,6 @@ We are always looking for new contributors. If you have an idea for a package, o
 You can reach out to the organizing committee:
 
 - Cameron Pfiffer at [cameron@pfiffer.org](mailto:cameron@pfiffer.org)
+- Jan Siml (Slack: @svilup / Zulip: Jan Siml)
 
 You can reach us on the Julia [Slack](https://julialang.org/slack/) & [Zulip](https://julialang.zulipchat.com/) at the `#generative-ai` channel. You can also find us at the [Discord](https://discord.gg/mm2kYjB) server, or the discussion forum at [discourse.julialang.org](https://discourse.julialang.org/).
