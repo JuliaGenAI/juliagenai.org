@@ -62,5 +62,3 @@ You can reach out to the organizing committee:
 - Jan Siml (Slack: @svilup / Zulip: Jan Siml)
 
 You can reach us on the Julia [Slack](https://julialang.org/slack/) & [Zulip](https://julialang.zulipchat.com/) at the `#generative-ai` channel. You can also find us at the [Discord](https://discord.gg/mm2kYjB) server, or the discussion forum at [discourse.julialang.org](https://discourse.julialang.org/).
-
-Credit: The logo has been designed by [Cormullion](https://github.com/cormullion).
