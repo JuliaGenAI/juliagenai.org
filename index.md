@@ -1,7 +1,10 @@
 @def title = "JuliaGenAI"
 @def tags = ["syntax", "code"]
 
-# JuliaGenAI
+~~~
+<h1 style="display:flex; justify-content: flex-start; align-items: center">
+<img alt="logo" style="width:50px; height:auto; margin:0; padding:0; vertical-align:middle; display:inline-block;" src="/assets/logo.svg">JuliaGenAI</h1>
+~~~
 
 JuliaGenAI is a [GitHub organization](https://github.com/JuliaGenAI/juliagenai.org) created to promote [Julia](https://julialang.org/) as a tool for generative artificial intelligence applications, development, and research. The organization is not intended to usurp robust tools like [llama.cpp](https://github.com/ggerganov/llama.cpp), [ggml](https://github.com/ggerganov/ggml), [ollama](https://github.com/ollama/ollama), etc.
 
@@ -59,3 +62,5 @@ You can reach out to the organizing committee:
 - Jan Siml (Slack: @svilup / Zulip: Jan Siml)
 
 You can reach us on the Julia [Slack](https://julialang.org/slack/) & [Zulip](https://julialang.zulipchat.com/) at the `#generative-ai` channel. You can also find us at the [Discord](https://discord.gg/mm2kYjB) server, or the discussion forum at [discourse.julialang.org](https://discourse.julialang.org/).
+
+Credit: The logo has been designed by [Cormullion](https://github.com/cormullion).
