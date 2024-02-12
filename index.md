@@ -2,8 +2,10 @@
 @def tags = ["syntax", "code"]
 
 ~~~
-<h1 style="display:flex; justify-content: flex-start; align-items: center">
-<img alt="logo" style="width:50px; height:auto; margin:0; padding:0; vertical-align:middle; display:inline-block;" src="/assets/logo.svg">JuliaGenAI</h1>
+<div style="text-align: center;">
+    <img alt="logo" style="width:150px; height:auto; margin:0; padding:0; vertical-align:middle; display:inline-block;" src="/assets/logo.svg">
+</div>
+<h1 style="display:flex; justify-content: center; align-items: center; width: 100%">JuliaGenAI</h1>
 ~~~
 
 JuliaGenAI is a [GitHub organization](https://github.com/JuliaGenAI/juliagenai.org) created to promote [Julia](https://julialang.org/) as a tool for generative artificial intelligence applications, development, and research. The organization is not intended to usurp robust tools like [llama.cpp](https://github.com/ggerganov/llama.cpp), [ggml](https://github.com/ggerganov/ggml), [ollama](https://github.com/ollama/ollama), etc.
