@@ -18,6 +18,10 @@ JuliaGenAI [is participating](https://julialang.org/jsoc/gsoc/juliagenai/) in Go
 
 [Learn more!](https://julialang.org/jsoc/gsoc/juliagenai/)
 
+## Organization packages
+
+- [HuggingFaceDatasets.jl](https://github.com/JuliaGenAI/HuggingFaceDatasets.jl) that wraps the python `datasets` package from huggingface. Thanks to [Carlo Lucibello](https://github.com/CarloLucibello) for the package! 
+
 ## Related packages
 
 JuliaGenAI is a new organization, and as such, it is still in the process of developing its first packages. However, we have several packages that represent the type of work we hope to promote. Please see the [Awesome List for GenAI meets Julia Language](https://github.com/svilupp/awesome-generative-ai-meets-julia-language).
