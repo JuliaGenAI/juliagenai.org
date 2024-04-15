@@ -12,12 +12,6 @@ Rather, JuliaGenAI is intended to provide a platform for furthering access to th
 
 You can see which language models tend to perform best on Julia code generation [here](https://siml.earth/Julia-LLM-Leaderboard/stable/).
 
-## Google Summer of Code 2024 with JuliaGenAI
-
-JuliaGenAI [is participating](https://julialang.org/jsoc/gsoc/juliagenai/) in Google Summer of Code 2024 and is currently seeking students to work on a variety of projects. Leap into JuliaGenAI's Google Summer of Code: Unleash your potential, learn about practical applications, and make pivotal contributions in the exciting world of generative AI with Julia—a chance to grow, impact, and thrive in an expanding ecosystem.
-
-[Learn more!](https://julialang.org/jsoc/gsoc/juliagenai/)
-
 ## Organization packages
 
 - [HuggingFaceDatasets.jl](https://github.com/JuliaGenAI/HuggingFaceDatasets.jl) that wraps the python `datasets` package from huggingface. Thanks to [Carlo Lucibello](https://github.com/CarloLucibello) for the package! 
